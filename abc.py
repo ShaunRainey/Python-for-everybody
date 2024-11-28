@@ -1,3 +1,3 @@
-ghsrtherth
+input("")
 # type: ignore
 
